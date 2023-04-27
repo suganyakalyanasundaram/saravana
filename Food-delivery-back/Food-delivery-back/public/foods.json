@@ -1,0 +1,257 @@
+[{
+        "price": 6800.00,
+        "sales": true,
+        "image": "../img/breakfast.png",
+        "name": "Өглөөний хоол",
+        "discount": 0,
+        "status": 20,
+        "tumb_img": "/../img/pic.png",
+        "ingredients": "guril, mah",
+        "stock": "1",
+        "category": {
+            "name": "үндсэн хоол хямдралтай",
+            "color": "brown"
+        },
+        "portion": "1"
+    },
+    {
+        "price": 7800.00,
+        "sales": true,
+        "image": "../img/icecream.png",
+        "name": "Зайрмаг",
+        "discount": 0,
+        "status": 30,
+        "tumb_img": "/../img/pic.png",
+        "ingredients": "guril, mah",
+        "stock": "1",
+        "category": {
+            "name": "амттан хямдралтай",
+            "color": "brown"
+        },
+        "portion": "1"
+    },
+    {
+        "price": 9800.00,
+        "sales": true,
+        "image": "../img/pancake.png",
+        "name": "Панкейк",
+        "discount": 0,
+        "status": 20,
+        "tumb_img": "/../img/pic.png",
+        "ingredients": "guril, mah",
+        "stock": "1",
+        "category": {
+            "name": "амттан хямдралтай",
+            "color": "brown"
+        },
+        "portion": "1"
+    },
+    {
+        "price": 6850.00,
+        "sales": false,
+        "image": "../img/macaron.png",
+        "name": "Макарон",
+        "discount": 0,
+        "status": 20,
+        "tumb_img": "/../img/pic.png",
+        "ingredients": "guril, mah",
+        "stock": "1",
+        "category": {
+            "name": "амттан",
+
+            "color": "brown"
+        },
+        "portion": "1"
+    },
+    {
+        "price": 5500.0,
+        "sales": true,
+        "image": "../img/banana_sandwich.png",
+        "name": "Банана сэндвич",
+        "discount": 0,
+        "status": 20,
+        "tumb_img": "/../img/pic.png",
+        "ingredients": "guril, mah",
+        "stock": false,
+        "category": {
+            "name": "амттан хямдралтай",
+            "color": "brown"
+        },
+        "portion": "1"
+    },
+    {
+        "price": 14800.0,
+        "sales": false,
+        "image": "../img/meatball.png",
+        "name": "Бөөрөнхий мах",
+        "discount": 0,
+        "status": 20,
+        "tumb_img": "/../img/pic.png",
+        "ingredients": "guril, mah",
+        "stock": "1",
+        "category": {
+            "name": "үндсэн хоол",
+            "color": "bluue"
+        },
+        "portion": "1"
+    },
+    {
+        "price": 11800.0,
+        "sales": false,
+        "image": "../img/salmon.png",
+        "name": "Салмон загас",
+        "discount": 0,
+        "status": 20,
+        "tumb_img": "/../img/pic.png",
+        "ingredients": "guril, mah",
+        "stock": "1",
+        "category": {
+            "name": "үндсэн хоол",
+            "color": "bluue"
+        },
+        "portion": "1"
+    },
+    {
+        "price": 6800.0,
+        "sales": false,
+        "image": "../img/detox_salad.png",
+        "name": "Детокс салат",
+        "discount": 0,
+        "status": 20,
+        "tumb_img": "/../img/pic.png",
+        "ingredients": "guril, mah",
+        "stock": "1",
+        "category": {
+            "name": "салад ба зууш",
+            "color": "bluue"
+        },
+        "portion": "1"
+    },
+    {
+        "price": 6800.0,
+        "sales": false,
+        "image": "../img/cobb_salad.png",
+        "name": "Кобб салад",
+        "discount": 0,
+        "status": 20,
+        "tumb_img": "/../img/pic.png",
+        "ingredients": "guril, mah",
+        "stock": "1",
+        "category": {
+            "name": "салад ба зууш",
+            "color": "bluue"
+        },
+        "portion": "2"
+    },
+    {
+        "price": 6800.0,
+        "sales": false,
+        "image": "../img/avocado_salad.png",
+        "name": "Авокадо салад",
+        "discount": 0,
+        "status": 20,
+        "tumb_img": "/../img/pic.png",
+        "ingredients": "guril, mah",
+        "stock": "1",
+        "category": {
+            "name": "салад ба зууш",
+            "color": "bluue"
+        },
+        "portion": "2"
+    },
+    {
+        "price": 4800.00,
+        "sales": false,
+        "image": "../img/sandwich.png",
+        "name": "Сендвич",
+        "discount": 0,
+        "status": 20,
+        "tumb_img": "/../img/pic.png",
+        "ingredients": "guril, mah",
+        "stock": "1",
+        "category": {
+            "name": "салад ба зууш",
+            "color": "bluue"
+        },
+        "portion": "2"
+    },
+    {
+        "price": 5800.00,
+        "sales": false,
+        "image": "../img/donuts.png",
+        "name": "Донатс",
+        "discount": 0,
+        "status": 20,
+        "tumb_img": "/../img/pic.png",
+        "ingredients": "guril, mah",
+        "stock": "1",
+        "category": {
+            "name": "амттан",
+            "color": "bluue"
+        },
+        "portion": "1"
+    },
+    {
+        "price": 7800.00,
+        "sales": false,
+        "image": "../img/oreo_dessert.png",
+        "name": "Орео дессерт",
+        "discount": 0,
+        "status": 20,
+        "tumb_img": "/../img/pic.png",
+        "ingredients": "guril, mah",
+        "stock": "1",
+        "category": {
+            "name": "амттан",
+            "color": "bluue"
+        },
+        "portion": "1"
+    },
+    {
+        "price": 5800.0,
+        "sales": false,
+        "image": "../img/waffle.png",
+        "name": "Вафли",
+        "discount": 0,
+        "status": 20,
+        "tumb_img": "/../img/pic.png",
+        "ingredients": "guril, mah",
+        "stock": "1",
+        "category": {
+            "name": "амттан",
+            "color": "bluue"
+        },
+        "portion": "1"
+    },
+    {
+        "price": 6800.0,
+        "sales": false,
+        "image": "../img/pumpkin_soup.png",
+        "name": "Хулууны зутан",
+        "discount": 0,
+        "status": 20,
+        "tumb_img": "/../img/pic.png",
+        "ingredients": "guril, mah",
+        "stock": "1",
+        "category": {
+            "name": "үндсэн хоол",
+            "color": "bluue"
+        },
+        "portion": "1"
+    },
+    {
+        "price": 24000.0,
+        "sales": false,
+        "image": "../img/italian_pizza.png",
+        "name": "Итали пицца",
+        "discount": 0,
+        "status": 20,
+        "tumb_img": "/../img/pic.png",
+        "ingredients": "guril, mah",
+        "category": {
+            "name": "үндсэн хоол",
+            "color": "bluue"
+        },
+        "portion": "3"
+    }
+]
